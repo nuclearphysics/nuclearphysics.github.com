@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>同学聚会</title>
-    <link>http://kevensya.github.io/</link>
-    <description>Recent content on 同学聚会</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title> on 同学聚会 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://nuclerphysics.github.io/</link>
     <language>zh-cn</language>
-    <managingEditor>xxxx@mail.com (kevenxia)</managingEditor>
-    <webMaster>xxxx@mail.com (kevenxia)</webMaster>
-    <atom:link href="http://kevensya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <author>kevenxia</author>
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
   </channel>
 </rss>
