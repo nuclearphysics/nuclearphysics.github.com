@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://nuclearphysics.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-1/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-2/</loc>
+    <loc>http://nuclearphysics.github.io/services/about/about/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/services/about/about/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-3/</loc>
+    <loc>http://nuclearphysics.github.io/services/new/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/services/new/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-3/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-4/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-4/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-5/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-5/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-6/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-6/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-7/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-7/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/proj-8/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-8/</loc>
   </url>
   
 </urlset>
