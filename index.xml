@@ -21,6 +21,34 @@
 &lt;img src=&#34;img/work/proj-1/img3.jpg&#34; alt=&#34;Typo International&#34; /&gt;
 &lt;img src=&#34;img/work/proj-1/img4.jpg&#34; alt=&#34;Typo International&#34; /&gt;
 &lt;img src=&#34;img/work/proj-1/img5.jpg&#34; alt=&#34;Typo International&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2016年，我们毕业十周年，这十年你过的好么，分别的日子里，是否怀念我们一起度过的四年美好时光？&lt;/p&gt;
+
+&lt;p&gt;四年，身上已深深烙下了母校的印记，十年，我们天各一方，为着自己的人生目标继续前行。四年不长，十年不短，心中却无时不记着我为你荣，你为我傲的寄语，总会在不经意的时刻，想起和你、和你们在一起的难忘岁月。&lt;/p&gt;
+
+&lt;p&gt;还记得，入学军训，大家相互认识，渐渐熟悉，并建立起深厚的友谊。&lt;/p&gt;
+
+&lt;p&gt;还记得，初到学校，元旦大家欢聚一堂包饺子，其乐融融胜似家人。&lt;/p&gt;
+
+&lt;p&gt;还记得，教室里小课、大课的情景，以及实验室里实践操作的搭档。&lt;/p&gt;
+
+&lt;p&gt;还记得，教学楼等待上机的长队，去邮局取信的喜悦和积攒的一套套201电话卡。&lt;/p&gt;
+
+&lt;p&gt;还记得，萃英山上我们的劳动成果，还有校门外吴谢营的网吧、饭馆和小店。&lt;/p&gt;
+
+&lt;p&gt;还记得，非典时的羽毛球赛，2004年篮球三对三，还有数不清的“贺岁杯”“冠军杯”等各种足球友谊赛和联赛。&lt;/p&gt;
+
+&lt;p&gt;还记得，2004年院运会同学们齐心协力、奋勇拼搏，取得赛事积分、精神文明双第一的佳绩。&lt;/p&gt;
+
+&lt;p&gt;还记得，和同学们相约去天水、去新疆、去甘南、去宁夏……用身心去感受祖国西北的大好山河。&lt;/p&gt;
+
+&lt;p&gt;还记得，毕业照时，大家身着学士服的意气风发，自信骄傲。&lt;/p&gt;
+
+&lt;p&gt;还记得，散伙饭上，用茶壶装着的啤酒，喝得大家满脸通红。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;我记着的，你还记得吗？金秋十月，我来学校，希望能和你一起，漫步校园，回忆当年。&lt;/p&gt;
 </description>
     </item>
     
@@ -31,32 +59,6 @@
       
       <guid>http://nuclearphysics.github.io/services/about/about/</guid>
       <description>&lt;p&gt;Test about me page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New page</title>
-      <link>http://nuclearphysics.github.io/services/new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/services/new/</guid>
-      <description>&lt;p&gt;Hello world
-lalala
-lalal&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://nuclearphysics.github.io/work/proj-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/work/proj-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-2/img1.jpg&#34; alt=&#34;青春&#34; /&gt;
-&lt;img src=&#34;img/work/proj-2/img2.jpg&#34; alt=&#34;青春&#34; /&gt;
-&lt;img src=&#34;img/work/proj-2/img3.jpg&#34; alt=&#34;青春&#34; /&gt;
-&lt;img src=&#34;img/work/proj-2/img4.jpg&#34; alt=&#34;青春&#34; /&gt;
-&lt;img src=&#34;img/work/proj-2/img5.jpg&#34; alt=&#34;青春&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -84,12 +86,14 @@ lalal&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>http://nuclearphysics.github.io/work/proj-5/</link>
+      <title>New page</title>
+      <link>http://nuclearphysics.github.io/services/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nuclearphysics.github.io/work/proj-5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
+      <guid>http://nuclearphysics.github.io/services/new/</guid>
+      <description>&lt;p&gt;Hello world
+lalala
+lalal&lt;/p&gt;
 </description>
     </item>
     
@@ -100,6 +104,30 @@ lalal&lt;/p&gt;
       
       <guid>http://nuclearphysics.github.io/work/proj-4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/img1.jpg&#34; alt=&#34;合照&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nuclearphysics.github.io/work/proj-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/work/proj-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-2/img1.jpg&#34; alt=&#34;青春&#34; /&gt;
+&lt;img src=&#34;img/work/proj-2/img2.jpg&#34; alt=&#34;青春&#34; /&gt;
+&lt;img src=&#34;img/work/proj-2/img3.jpg&#34; alt=&#34;青春&#34; /&gt;
+&lt;img src=&#34;img/work/proj-2/img4.jpg&#34; alt=&#34;青春&#34; /&gt;
+&lt;img src=&#34;img/work/proj-2/img5.jpg&#34; alt=&#34;青春&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nuclearphysics.github.io/work/proj-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/work/proj-5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
