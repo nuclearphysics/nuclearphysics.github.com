@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on 永远的核物2002-2006</title>
-    <link>http://localhost:1313/work/</link>
+    <link>http://nuclearphysics.github.io/work/</link>
     <description>Recent content in Works on 永远的核物2002-2006</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nuclearphysics.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-1/</link>
+      <link>http://nuclearphysics.github.io/work/proj-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-1/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-1/img1.jpg&#34; alt=&#34;Typo International&#34; /&gt;
 军训的苦与乐
 &lt;img src=&#34;img/work/proj-1/img2.jpg&#34; alt=&#34;Typo International&#34; /&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-2/</link>
+      <link>http://nuclearphysics.github.io/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-2/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-2/img1.jpg&#34; alt=&#34;青春&#34; /&gt;
 &lt;img src=&#34;img/work/proj-2/img2.jpg&#34; alt=&#34;青春&#34; /&gt;
 &lt;img src=&#34;img/work/proj-2/img3.jpg&#34; alt=&#34;青春&#34; /&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-3/</link>
+      <link>http://nuclearphysics.github.io/work/proj-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-3/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-3/img1.jpg&#34; alt=&#34;情谊&#34; /&gt;
 &lt;img src=&#34;img/work/proj-3/img2.jpg&#34; alt=&#34;情谊&#34; /&gt;
 &lt;img src=&#34;img/work/proj-3/img3.jpg&#34; alt=&#34;情谊&#34; /&gt;
@@ -91,55 +91,55 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-4/</link>
+      <link>http://nuclearphysics.github.io/work/proj-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-4/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/img1.jpg&#34; alt=&#34;合照&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-5/</link>
+      <link>http://nuclearphysics.github.io/work/proj-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-5/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-5/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-6/</link>
+      <link>http://nuclearphysics.github.io/work/proj-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-6/</guid>
+      <guid>http://nuclearphysics.github.io/work/proj-6/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-7/</link>
+      <link>http://nuclearphysics.github.io/work/proj-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img0.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img2.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img3.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img4.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;&lt;/p&gt;
+      <guid>http://nuclearphysics.github.io/work/proj-8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-8/</link>
+      <link>http://nuclearphysics.github.io/work/proj-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-8/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
+      <guid>http://nuclearphysics.github.io/work/proj-7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img0.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
+&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
+&lt;img src=&#34;img/work/proj-7/img2.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
+&lt;img src=&#34;img/work/proj-7/img3.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
+&lt;img src=&#34;img/work/proj-7/img4.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
