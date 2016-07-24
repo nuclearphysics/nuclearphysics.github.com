@@ -11,19 +11,11 @@
   </url>
   
   <url>
-    <loc>http://nuclearphysics.github.io/work/proj-2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nuclearphysics.github.io/work/proj-3/</loc>
-  </url>
-  
-  <url>
     <loc>http://nuclearphysics.github.io/services/about/about/</loc>
   </url>
   
   <url>
-    <loc>http://nuclearphysics.github.io/services/new/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-2/</loc>
   </url>
   
   <url>
@@ -31,7 +23,15 @@
   </url>
   
   <url>
+    <loc>http://nuclearphysics.github.io/services/new/</loc>
+  </url>
+  
+  <url>
     <loc>http://nuclearphysics.github.io/work/proj-5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nuclearphysics.github.io/work/proj-3/</loc>
   </url>
   
   <url>
@@ -39,11 +39,11 @@
   </url>
   
   <url>
-    <loc>http://nuclearphysics.github.io/work/proj-8/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-7/</loc>
   </url>
   
   <url>
-    <loc>http://nuclearphysics.github.io/work/proj-7/</loc>
+    <loc>http://nuclearphysics.github.io/work/proj-8/</loc>
   </url>
   
 </urlset>

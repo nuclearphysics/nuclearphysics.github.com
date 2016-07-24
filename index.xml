@@ -53,6 +53,16 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>http://nuclearphysics.github.io/services/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/services/about/about/</guid>
+      <description>&lt;p&gt;Test about me page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://nuclearphysics.github.io/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,6 +73,38 @@
 &lt;img src=&#34;img/work/proj-2/img3.jpg&#34; alt=&#34;青春&#34; /&gt;
 &lt;img src=&#34;img/work/proj-2/img4.jpg&#34; alt=&#34;青春&#34; /&gt;
 &lt;img src=&#34;img/work/proj-2/img5.jpg&#34; alt=&#34;青春&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nuclearphysics.github.io/work/proj-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/work/proj-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/img1.jpg&#34; alt=&#34;合照&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New page</title>
+      <link>http://nuclearphysics.github.io/services/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/services/new/</guid>
+      <description>&lt;p&gt;Hello world
+lalala
+lalal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nuclearphysics.github.io/work/proj-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/work/proj-5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -90,64 +132,12 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>http://nuclearphysics.github.io/services/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/services/about/about/</guid>
-      <description>&lt;p&gt;Test about me page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New page</title>
-      <link>http://nuclearphysics.github.io/services/new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/services/new/</guid>
-      <description>&lt;p&gt;Hello world
-lalala
-lalal&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://nuclearphysics.github.io/work/proj-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/work/proj-4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/img1.jpg&#34; alt=&#34;合照&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://nuclearphysics.github.io/work/proj-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/work/proj-5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://nuclearphysics.github.io/work/proj-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://nuclearphysics.github.io/work/proj-6/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://nuclearphysics.github.io/work/proj-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nuclearphysics.github.io/work/proj-8/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -162,6 +152,16 @@ lalal&lt;/p&gt;
 &lt;img src=&#34;img/work/proj-7/img2.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
 &lt;img src=&#34;img/work/proj-7/img3.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
 &lt;img src=&#34;img/work/proj-7/img4.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nuclearphysics.github.io/work/proj-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nuclearphysics.github.io/work/proj-8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
